@@ -1,0 +1,22 @@
+C:\Users\user\source\repos\Dikdörtgen Alanı ve Çevresi\Dikdörtgen Alanı ve Çevresi\bin\Debug\Dikdörtgen Alanı ve Çevresi.exe.config
+C:\Users\user\source\repos\Dikdörtgen Alanı ve Çevresi\Dikdörtgen Alanı ve Çevresi\bin\Debug\Dikdörtgen Alanı ve Çevresi.exe
+C:\Users\user\source\repos\Dikdörtgen Alanı ve Çevresi\Dikdörtgen Alanı ve Çevresi\bin\Debug\Dikdörtgen Alanı ve Çevresi.pdb
+C:\Users\user\source\repos\Dikdörtgen Alanı ve Çevresi\Dikdörtgen Alanı ve Çevresi\obj\Debug\Dikdörtgen Alanı ve Çevresi.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Dikdörtgen Alanı ve Çevresi\Dikdörtgen Alanı ve Çevresi\obj\Debug\Dikdörtgen Alanı ve Çevresi.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Dikdörtgen Alanı ve Çevresi\Dikdörtgen Alanı ve Çevresi\obj\Debug\Dikdörtgen_Alanı_ve_Çevresi.Form1.resources
+C:\Users\user\source\repos\Dikdörtgen Alanı ve Çevresi\Dikdörtgen Alanı ve Çevresi\obj\Debug\Dikdörtgen_Alanı_ve_Çevresi.Properties.Resources.resources
+C:\Users\user\source\repos\Dikdörtgen Alanı ve Çevresi\Dikdörtgen Alanı ve Çevresi\obj\Debug\Dikdörtgen Alanı ve Çevresi.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Dikdörtgen Alanı ve Çevresi\Dikdörtgen Alanı ve Çevresi\obj\Debug\Dikdörtgen Alanı ve Çevresi.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Dikdörtgen Alanı ve Çevresi\Dikdörtgen Alanı ve Çevresi\obj\Debug\Dikdörtgen Alanı ve Çevresi.exe
+C:\Users\user\source\repos\Dikdörtgen Alanı ve Çevresi\Dikdörtgen Alanı ve Çevresi\obj\Debug\Dikdörtgen Alanı ve Çevresi.pdb
+E:\Algoritma\Dikdörtgen Alanı ve Çevresi\Dikdörtgen Alanı ve Çevresi\bin\Debug\Dikdörtgen Alanı ve Çevresi.exe.config
+E:\Algoritma\Dikdörtgen Alanı ve Çevresi\Dikdörtgen Alanı ve Çevresi\bin\Debug\Dikdörtgen Alanı ve Çevresi.exe
+E:\Algoritma\Dikdörtgen Alanı ve Çevresi\Dikdörtgen Alanı ve Çevresi\bin\Debug\Dikdörtgen Alanı ve Çevresi.pdb
+E:\Algoritma\Dikdörtgen Alanı ve Çevresi\Dikdörtgen Alanı ve Çevresi\obj\Debug\Dikdörtgen Alanı ve Çevresi.csproj.AssemblyReference.cache
+E:\Algoritma\Dikdörtgen Alanı ve Çevresi\Dikdörtgen Alanı ve Çevresi\obj\Debug\Dikdörtgen Alanı ve Çevresi.csproj.SuggestedBindingRedirects.cache
+E:\Algoritma\Dikdörtgen Alanı ve Çevresi\Dikdörtgen Alanı ve Çevresi\obj\Debug\Dikdörtgen_Alanı_ve_Çevresi.Form1.resources
+E:\Algoritma\Dikdörtgen Alanı ve Çevresi\Dikdörtgen Alanı ve Çevresi\obj\Debug\Dikdörtgen_Alanı_ve_Çevresi.Properties.Resources.resources
+E:\Algoritma\Dikdörtgen Alanı ve Çevresi\Dikdörtgen Alanı ve Çevresi\obj\Debug\Dikdörtgen Alanı ve Çevresi.csproj.GenerateResource.cache
+E:\Algoritma\Dikdörtgen Alanı ve Çevresi\Dikdörtgen Alanı ve Çevresi\obj\Debug\Dikdörtgen Alanı ve Çevresi.csproj.CoreCompileInputs.cache
+E:\Algoritma\Dikdörtgen Alanı ve Çevresi\Dikdörtgen Alanı ve Çevresi\obj\Debug\Dikdörtgen Alanı ve Çevresi.exe
+E:\Algoritma\Dikdörtgen Alanı ve Çevresi\Dikdörtgen Alanı ve Çevresi\obj\Debug\Dikdörtgen Alanı ve Çevresi.pdb
